@@ -1,12 +1,3 @@
-Reset|On October 11, we are cleaning all coins and photo slots from users. On our server for a long time, coins have no value associated with various factors. The cleanup will affect everyone. The new economy will be more thoughtful, the number of coins received will be reduced, but new ways of obtaining coins, more interesting ways are planned. More details will come later|||
-Update|
-|https://board.meredian.io/uploads/monthly_2020_09/meredian-v57.png.8dd105c64756b30014f4941e60a876c1.png|||
-2D and 3D Desginer|We work look for 2D and 3D Designer. Discord SempiTerno [MDC]SempiTerno#7496|https://board.meredian.io/uploads/monthly_2020_09/1MEREDIAN-2-D-AND-3-D.jpg.ff5050f7da42f3fb87b05fd9786e4b65.jpg|http://DISCORD.GG/uQPEazf||
-Update|
-|https://board.meredian.io/uploads/monthly_2020_09/meredian-v57.png.8dd105c64756b30014f4941e60a876c1.png|||
-Gratitude|
-We receive many proposals for donations, it is valuable to us. We open such an opportunity for everyone. In addition, in gratitude you will receive thanks, colored nicknames. All details on site.
-|https://board.meredian.io/uploads/monthly_2020_08/Gr3.png.b4958df30cc115af6d0753582a434972.png|https://board.meredian.io/topic/568-donation/||||
 Update v56|New update v56
 Man: <br>
 + Eyebrow 1 SempiTerno <br>
