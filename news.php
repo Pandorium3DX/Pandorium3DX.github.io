@@ -7,4 +7,4 @@ We've tried our hardest to include everything that the community has wanted, and
 <color=green>+ Tails</color>
 <color=green>+ Ears</color>
 <color=green>+ Outfits</color>
-<color=green>+ Stability Improvements</color><br>|https://cdn.pandorium.net/Release/placeholder.png||||
+<color=green>+ Stability Improvements</color><br>|https://cdn.pandorium.net/Release/placeholder_news_small.png||||
