@@ -1,3 +1,13 @@
+Pandorium 2.0|Welcome to Pandorium Release 2.0!
+We have a lot of things to show you with this update! <br>
+We've tried our hardest to include everything that the community has wanted, and we hope we have delivered! <br>
++ New Poses
++ New Hairs
++ New Clothing Items
++ Tails
++ Ears
++ Outfits
++ Stability Improvements<br>|https://attachments.f95zone.to/2020/05/654387_Small.png||||
 Update v56|New update v56
 Man: <br>
 + Eyebrow 1 SempiTerno <br>
