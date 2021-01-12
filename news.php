@@ -1,1 +1,9 @@
-New Server Launch!|Hello, everyone! We have done a huge reset and if your account does not work, I suggest re-registering by clicking this news post. We did this to greatly improve the stability of Pandorium for you all. <3|||
+Update|New update:
++ 5 new hair for woman
++ 2 new hair for man
++ New topwear
++ New stockings by Bionicle
++ New face prints for woman by Bionicle
++ New face prints for man by Bionicle
++ New tattoos for woman by ManOf_Wisdom
++ New prints by SeaQueen<br>|https://attachments.f95zone.to/2020/05/654387_Small.png||||
