@@ -1,4 +1,4 @@
-Pandorium 2.0|<color=purple>Welcome to Pandorium Release 2.0!</color>
+||||Pandorium 2.0|<color=purple>Welcome to Pandorium Release 2.0!</color>
 We have a lot of things to show you with this update! <br>
 We've tried our hardest to include everything that the community has wanted, and we hope we have delivered! <br>
 <color=green>+ New Poses</color>
