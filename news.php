@@ -7,7 +7,7 @@ We've tried our hardest to include everything that the community has wanted, and
 <color=green>+ Tails</color>
 <color=green>+ Ears</color>
 <color=green>+ Outfits</color>
-<color=green>+ Stability Improvements</color><br>|https://cdn.discordapp.com/attachments/791345282578513930/803586970244743218/poster429.jpg||||
+<color=green>+ Stability Improvements</color><br>|https://cdn.discordapp.com/attachments/791345282578513930/803593309816619008/giveaway1.jpg||||
 Pandorium 2.0|<color=purple>Welcome to Pandorium Release 2.0!</color>
 We have a lot of things to show you with this update! <br>
 We've tried our hardest to include everything that the community has wanted, and we hope we have delivered! <br>
